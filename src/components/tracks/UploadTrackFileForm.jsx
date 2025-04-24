@@ -123,7 +123,7 @@ export function UploadTrackFileForm({ handleClose }) {
           data-loading={isPending}
           data-disabled={isPending}
         >
-          {isPending ? <CircularProgress size={24} /> : 'Upload'}
+          {isPending ? <CircularProgress size={18} /> : 'Upload'}
         </Button>
       </DialogActions>
     </Stack>

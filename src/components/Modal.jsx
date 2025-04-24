@@ -41,7 +41,7 @@ import { getErrorMessage } from '../helpers/index.jsx';
             data-disabled={isLoading}
             data-testid='confirm-delete'
           >
-            {isLoading ? <CircularProgress size={22} /> : 'Confirm'}
+            {isLoading ? <CircularProgress size={18} /> : 'Confirm'}
           </Button>
         </DialogActions>
       }

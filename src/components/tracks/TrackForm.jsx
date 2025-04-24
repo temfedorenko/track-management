@@ -195,7 +195,7 @@ export function TrackForm({ isCreate = false, handleClose }) {
           data-disabled={isCreating}
           data-testid='submit-button'
         >
-          {isCreating ? <CircularProgress size={24} /> : 'Save'}
+          {isCreating ? <CircularProgress size={18} /> : 'Save'}
         </Button>
       </DialogActions>
     </Stack>
