@@ -16,7 +16,7 @@
     "@mui/material": "^6.4.11",
     "@tanstack/react-query": "^5.74.4",
     "@wavesurfer/react": "^1.0.11",
-    "axios": "^1.8.4",
+    "axios": "^1.13.5",
     "formik": "^2.4.6",
     "mui-file-input": "^7.0.0",
     "react": "^19.0.0",
